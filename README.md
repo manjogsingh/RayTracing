@@ -3,13 +3,12 @@ The ray tracing algorithm generates photorealistic images from 3-D geometry in a
 
 # Shading 
 
-Lambertian
-<img src="Screens/ss_P_Lambertian.png">
-Phong
-<img src="Screens/ss_P_Phong+Lambertian.png">
-Shadows
-<img src="Screens/ss_P_Shadow+Phong+Lambertian.png">
-Mirror Reflectance
-<img src="Screens/ss_P_Mirror+Phong+Lambertian.png">
-Transperancy
-<img src="Screens/ss_P_Transparent+Phong+Lambertian.png">
+![Lambertian Shading](/Screens/ss_P_Lambertian.png)*<p align="center">**Lambertian Shading**</p>*
+
+![Phong Shading](/Screens/ss_P_Phong+Lambertian.png)*<p align="center">**Phong Shading**</p>*
+
+![Shading with Shadows](/Screens/ss_P_Shadow+Phong+Lambertian.png)*<p align="center">**Shading with Shadows**</p>*
+
+![Mirror Reflectance](/Screens/ss_P_Mirror+Phong+Lambertian.png)*<p align="center">**Mirror Reflectance**</p>*
+
+![Transparency](/Screens/ss_P_Transparent+Phong+Lambertian.png)*<p align="center">**Transperancy**</p>*
